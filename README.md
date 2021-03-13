@@ -11,8 +11,8 @@
 
 <p align="center">
   New iterations:
-  <a href="https://github.com/Abhijith14/BUDDY-WEB-v2" target="_blank">v2</a>, 
-  <a href="https://github.com/Abhijith14/BUDDY-WEB-v3" target="_blank">v3</a>
+  <a href="https://github.com/BUDDY-Developer/BUDDY-WEB-v2" target="_blank">v2</a>, 
+  <a href="https://github.com/BUDDY-Developer/BUDDY-WEB-v3" target="_blank">v3</a>
 </p>
 
 
