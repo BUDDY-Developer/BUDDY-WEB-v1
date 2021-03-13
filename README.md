@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/BUDDY-Developer/BUDDY-WEB-v1/master/readme_assets/logo.png" width="400" />
 </div>
 <h1 align="center">
-  Abhijith14/BUDDY-WEB-v1
+  BUDDY-WEB-v1
 </h1>
 <p align="center">
   The First iteration of <a href="https://buddy-developer.github.io/BUDDY-WEB-v1/" target="_blank">BUDDY-WEBSITE</a>
